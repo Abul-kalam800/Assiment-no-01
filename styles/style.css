@@ -240,3 +240,36 @@ main{
     text-align: center;
     margin: 40px 0;
 }
+
+/* newsletter css starts  */
+
+.newsletter{
+    background-color:#C6E4D6;
+    margin: 50px auto;
+    border-radius: 30px;
+    padding: 100px 150px;
+    text-align: center;
+
+}
+.newsletter-desc{
+    width: 65%;
+    margin: auto;
+}
+.newsletter-box{
+    width: 70%;
+    padding: 16px;
+    text-align: center;
+    font-size: 16px;
+    position: relative;
+    margin: 30px 0;
+    border-radius: 10px 0 0 10px;
+    border: none;
+
+
+}
+.newsletter-btn{
+    position: absolute;
+    border-radius: 0 10px 10px 0;
+    margin: 30px 0;
+
+}
