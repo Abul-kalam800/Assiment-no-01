@@ -191,3 +191,52 @@ main{
 .recent-container-2{
     flex-direction: row-reverse;
 }
+
+/* donet css starts  */
+.donet-section{
+    margin: 80px 0;
+
+
+}
+.donet-heading{
+    text-align: center;
+}
+.donet-desc{
+    width: 88%;
+    margin: 0 auto;
+}
+.donet-container{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 50px 0;
+}
+.donet-box{
+    padding:40px;
+    border-radius: 30px;
+    background-color: #fff;
+    border: 1px solid #0E0E0E;
+}
+.amount{
+    font-size: 40px;
+    font-weight: bold;
+}
+.active-box{
+    background-color: #C6E4D6;
+}
+.input-box{
+    display: block;
+    padding: 20px;
+    width: 85%;
+    text-align: center;
+    color: #0E0E0E;
+    font-size: 20px;
+    margin: 0 auto;
+    border: none;
+    background-color: #fff;
+
+}
+.donet-btn{
+    text-align: center;
+    margin: 40px 0;
+}
